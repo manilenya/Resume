@@ -1,0 +1,13 @@
+name: Annalyn Aguilar's Resume
+markdown: redcarpet
+pygments: true
+auto: true
+
+ftp_host: 'helloweb.ca'
+ftp_dir: '/public_html/helloweb/Annalyn/resume'
+ftp_passive: false
+
+# optional
+ftp_port: 21
+ftp_username: 'manileny'
+ftp_password: 'Elementary101'
